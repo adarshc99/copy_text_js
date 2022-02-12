@@ -1,0 +1,51 @@
+#text-box,h2,#input-text,#copy-button,#message
+{
+    margin:auto;
+    width: 50%;
+}
+#copy-button,#input-text
+{
+    display: block;
+    
+    
+   
+}
+#copy-button
+{
+    background-color: rgb(92,219,148);
+    border-radius: 5px;
+   max-width:30%;
+    
+}
+h2{
+    padding-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: rgb(92, 211, 219);
+}
+#input-text
+{
+    margin-bottom: 10%;
+    border: none;
+   padding-bottom: 50%;
+   background-color: rgb(92,219,148);
+   opacity: 0.8;
+   border-radius: 5px;
+   box-shadow: 30px -80px 140px 120px rgb(92,219,148);
+ 
+   
+   
+}
+#text-box
+{
+    background-color: black;
+    
+}
+
+body{
+    background-color: black;
+}
+#message
+{
+    color: rgb(211, 177, 26);
+}
